@@ -148,4 +148,43 @@ h1 {
 
 .story-image img:hover {
     transform: scale(1.05);
+}
+
+/* 壞結局特殊樣式 */
+.bad-ending {
+    background: rgba(255, 0, 0, 0.1);
+    border: 2px solid var(--accent-color);
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(255, 51, 102, 0.4); }
+    70% { box-shadow: 0 0 0 10px rgba(255, 51, 102, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(255, 51, 102, 0); }
+}
+
+.bad-ending .story-text {
+    color: var(--accent-color);
+    text-shadow: 0 0 10px rgba(255, 51, 102, 0.3);
+}
+
+.bad-ending .choice-btn {
+    border-color: var(--accent-color);
+}
+
+.bad-ending .choice-btn:hover {
+    background: var(--accent-color);
+    color: var(--background-color);
+    box-shadow: 0 5px 15px rgba(255, 51, 102, 0.3);
 } 
+
+.choices-title {
+    font-size: 1.2rem;
+    color: var(--text-color);
+    margin: 1rem 0;
+    padding: 0.5rem;
+    text-align: center;
+    border-bottom: 2px solid var(--accent-color);
+    text-shadow: 0 0 5px rgba(255, 51, 102, 0.2);
+}
+

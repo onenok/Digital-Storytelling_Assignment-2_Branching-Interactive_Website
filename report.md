@@ -1,5 +1,10 @@
 # 音核紀元：破曉之鑰 - 跨媒體互動敘事設計分析報告
 
+組員：
+- Ho Nok Hei (S24214373)
+- Leung Yik Man  (S24207331)
+- (S24214362) 
+
 ## 1. 跨媒體和互動敘事元素分析
 
 [Website Link](https://onenok.github.io/Digital-Storytelling_Assignment-2_Branching-Interactive_Website/website/index.html)

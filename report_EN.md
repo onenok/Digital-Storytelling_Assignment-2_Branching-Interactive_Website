@@ -1,5 +1,10 @@
 # The Sonic Era: Key of Dawn - Transmedia Interactive Narrative Design Analysis Report
 
+members: 
+- Ho Nok Hei (S24214373)
+- Leung Yik Man  (S24207331)
+- (S24214362) 
+
 ## 1. Analysis of Transmedia and Interactive Narrative Elements
 
 [Website Link](https://onenok.github.io/Digital-Storytelling_Assignment-2_Branching-Interactive_Website/website/index.html)

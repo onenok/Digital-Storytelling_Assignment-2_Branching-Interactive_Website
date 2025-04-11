@@ -2,6 +2,8 @@
 
 ## 1. 跨媒體和互動敘事元素分析
 
+[Website Link](https://onenok.github.io/Digital-Storytelling_Assignment-2_Branching-Interactive_Website/website/index.html)
+
 ### 1.1 網頁互動機制
 本作品採用網頁作為主要媒介，透過多層次的互動機制來強化故事體驗：
 

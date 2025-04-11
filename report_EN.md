@@ -2,6 +2,8 @@
 
 ## 1. Analysis of Transmedia and Interactive Narrative Elements
 
+[Website Link](https://onenok.github.io/Digital-Storytelling_Assignment-2_Branching-Interactive_Website/)
+
 ### 1.1 Web Interactive Mechanisms
 This work uses web as the primary medium, enhancing story experience through multi-layered interactive mechanisms:
 
